@@ -29,7 +29,7 @@ All decisions by [XG](https://www.extremegammon.com/) are final.
 
 | Date        | Game Results      | MCG  | KID  | Total<br/>MCG | Total<br/>KID |
 |-------------|-------------------|-----:|-----:|--------------:|--------------:|
-| `29-Mar-24` | `M2* K2,2,2,4**`  |  `2` |  `8` |           `4` |         `13`  | 
+| `29-Mar-24` | `M2* K2,2,2,4**`  |  `2` | `10` |           `4` |         `15`  | 
 | `22-Mar-24` | `M2! K4*,1`       |  `2` |  `5` |           `2` |          `5`  |
 
 ### Blunders
