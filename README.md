@@ -19,6 +19,10 @@ if the cube value is greater than one.
 to win awards "style points". These points mean nothing but are notated on the
 scoresheet with an exclamation point for use later when bragging about the
 miracle.
+- After a player has completed a move and before the opponent has picked up
+the dice, the opponent may declare the previous move as a blunder. The player must
+either acknowledge the blunder or appeal the decision to XG. All decisions by XG
+are final. 
 - Upon completion of the match, the winner shall be presented with a trophy.
 
 ### Scoresheet
