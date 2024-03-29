@@ -21,8 +21,8 @@ scoresheet with an exclamation point for use later when bragging about the
 miracle.
 - After a player has completed a move and before the opponent has picked up
 the dice, the opponent may declare the previous move as a blunder. The player must
-either acknowledge the blunder or appeal the decision to XG. All decisions by XG
-are final. 
+either acknowledge the blunder or appeal the decision to [XG](https://www.extremegammon.com/).
+All decisions by [XG](https://www.extremegammon.com/) are final. 
 - Upon completion of the match, the winner shall be presented with a trophy.
 
 ### Scoresheet
