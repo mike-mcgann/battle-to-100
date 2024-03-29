@@ -32,7 +32,7 @@ are final.
 | `29-Mar-24` | `M2* K2,2,2,4**`  |  `2` |  `8` |           `4` |         `13`  | 
 | `22-Mar-24` | `M2! K4*,1`       |  `2` |  `5` |           `2` |          `5`  |
 
-### Acknowledged  Blunders
+### Blunders
 
 | McG | KID |
 |-----|-----|
