@@ -23,7 +23,7 @@ miracle.
 the dice, the opponent may declare the previous move as a blunder. The player must
 either acknowledge the blunder or appeal the decision to [XG](https://www.extremegammon.com/).
 All decisions by [XG](https://www.extremegammon.com/) are final. 
-- Upon completion of the match, the winner shall be presented with a trophy.
+- Upon completion of the match, the winner shall be presented with a [trophy](https://www.yourprops.com/Puggy-Weaver-Bowling-Record-Trophy-original-set-dressing-pieces-Married-With-Children-TV-1987-YP821656.html).
 
 ### Scoresheet
 
