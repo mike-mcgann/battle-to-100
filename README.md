@@ -41,7 +41,7 @@ All decisions by [XG](https://www.extremegammon.com/) are final.
 
 | McG | KID |
 |-----|-----|
-| 2   | 1   |
+| 2   | 2   |
 
 ### License
 
