@@ -29,6 +29,7 @@ All decisions by [XG](https://www.extremegammon.com/) are final.
 
 | Date        | Game Results      | MCG  | KID  | Total<br/>MCG | Total<br/>KID |
 |-------------|-------------------|-----:|-----:|--------------:|--------------:|
+| `30-Aug-24` | `K4 M1 K412`      |  `1` | `11` |          `23` |         `53`  |
 | `16-Aug-24` | `K4G M222`        |  `6` |  `4` |          `22` |         `42`  |
 | `21-Jun-24` | `M111 K21 M4`     |  `7` |  `3` |          `16` |         `38`  | 
 | `31-May-24` | `M1 K24*4`        |  `1` | `10` |           `9` |         `35`  |
@@ -41,7 +42,7 @@ All decisions by [XG](https://www.extremegammon.com/) are final.
 
 | McG | KID |
 |-----|-----|
-| 2   | 2   |
+| 3   | 2   |
 
 ### License
 
