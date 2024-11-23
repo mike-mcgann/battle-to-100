@@ -22,8 +22,18 @@ miracle.
 - After a player has completed a move and before the opponent has picked up
 the dice, the opponent may declare the previous move as a blunder. The player must
 either acknowledge the blunder or appeal the decision to [XG](https://www.extremegammon.com/).
+- Liability is capped at 50 points.
 All decisions by [XG](https://www.extremegammon.com/) are final. 
 - Upon completion of the match, the winner shall be presented with a [trophy](https://www.yourprops.com/Puggy-Weaver-Bowling-Record-Trophy-original-set-dressing-pieces-Married-With-Children-TV-1987-YP821656.html).
+
+## Match 2
+
+| Date        | Game Results        | MCG  | KID  | Total<br/>MCG | Total<br/>KID |
+|-------------|---------------------|-----:|-----:|--------------:|--------------:|
+| `22-Nov-24` | `M21,2*,2*,1,1 K2*` |  `7` |  `2` |           `7` |          `2`  | 
+
+
+## Match 1
 
 ### Scoresheet
 
