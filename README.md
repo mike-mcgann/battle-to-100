@@ -8,17 +8,17 @@ control system.
 
 - If doubles are rolled when starting the game, the cube is automatically
 doubled but remains in the neutral position. This is notated on the
-scoresheet with a single asterisk.
+scoresheet with a single asterisk (*).
 - If doubles are rolled twice in a row when starting the game, the cube
 is automatically redoubled but remains in the neutral position. This is
-notated on the scoresheet with a double asterisk.
+notated on the scoresheet with a double asterisk (**).
 - A modified Jacoby rule is in effect. Gammons and backgammons only count
 if the cube value is greater than one.
 - The scoresheet notates gammons with a (G) and backgammons with a (B).
-- Cube values of 16 are notated with an `X`, 32 with a `Y`, and 64 with a `Z`. 
+- Cube values of 16 are notated with an (X), 32 with a (Y), and 64 with a (Z). 
 - Winning a game with a final roll of doubles when doubles are required
 to win awards "style points". These points mean nothing but are notated on the
-scoresheet with an exclamation point for use later when bragging about the
+scoresheet with an exclamation point (!) for use later when bragging about the
 miracle.
 - After a player has completed a move and before the opponent has picked up
 the dice, the opponent may declare the previous move as a blunder. The player must
