@@ -15,6 +15,7 @@ notated on the scoresheet with a double asterisk.
 - A modified Jacoby rule is in effect. Gammons and backgammons only count
 if the cube value is greater than one.
 - The scoresheet notates gammons with a (G) and backgammons with a (B).
+- Cube values of 16 are notated with an `X`, 32 with a `Y`, and 64 with a `Z`. 
 - Winning a game with a final roll of doubles when doubles are required
 to win awards "style points". These points mean nothing but are notated on the
 scoresheet with an exclamation point for use later when bragging about the
@@ -24,12 +25,23 @@ the dice, the opponent may declare the previous move as a blunder. The player mu
 either acknowledge the blunder or appeal the decision to [XG](https://www.extremegammon.com/).
 All decisions by [XG](https://www.extremegammon.com/) are final. 
 - Liability is capped at 50 points.
+- The winner of the match is the first person to exceed 100 points. Points earned in excess
+of 100 on the final game are valid in calculating the match point differential. If additional
+games are played after a match win is awarded, those games are automatically
+applied to the next match. 
 - Upon completion of the match, the winner shall be presented with a [trophy](https://www.yourprops.com/Puggy-Weaver-Bowling-Record-Trophy-original-set-dressing-pieces-Married-With-Children-TV-1987-YP821656.html).
+
+## Match 3 
+
+| Date        | Game Results        | MCG  | KID  | Total<br/>MCG | Total<br/>KID |
+|-------------|---------------------|-----:|-----:|--------------:|--------------:|
+| `03-Oct-25` | `M2 K11 M11`        |  `4` |  `2` |           `4` |           `2` |
 
 ## Match 2
 
 | Date        | Game Results        | MCG  | KID  | Total<br/>MCG | Total<br/>KID |
 |-------------|---------------------|-----:|-----:|--------------:|--------------:|
+| `03-Oct-25` | `M11!4**1XG**24*`   | `29` |  `0` |         `104` |         `48`  |
 | `11-Sep-25` | `K1 M12 K2 M2`      |  `5` |  `3` |          `75` |         `48`  |
 | `22-Aug-25` | `M1141 K1`          |  `7` |  `1` |          `70` |         `45`  |
 | `15-Aug-25` | `K2 M1 K1 M4! K11`  |  `5` |  `5` |          `63` |         `44`  | 
