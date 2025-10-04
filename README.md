@@ -79,7 +79,7 @@ applied to the next match.
 
 | McG | KID |
 |-----|-----|
-| 5   | 3   |
+| 5   | 5   |
 
 ### License
 
