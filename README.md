@@ -25,7 +25,7 @@ the dice, the opponent may declare the previous move as a blunder. The player mu
 either acknowledge the blunder or appeal the decision to [XG](https://www.extremegammon.com/).
 All decisions by [XG](https://www.extremegammon.com/) are final. 
 - Liability is capped at 50 points.
-- The winner of the match is the first person to exceed 100 points. Points earned in excess
+- The winner of the match is the first person to reach or exceed 100 points. Points earned in excess
 of 100 on the final game are valid in calculating the match point differential. If additional
 games are played after a match win is awarded, those games are automatically
 applied to the next match. 
