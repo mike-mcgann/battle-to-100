@@ -35,6 +35,7 @@ applied to the next match.
 
 | Date        | Game Results        | MCG  | KID  | Total<br/>MCG | Total<br/>KID |
 |-------------|---------------------|-----:|-----:|--------------:|--------------:|
+| `16-Oct-25` | `K12*18*!11 M2*1`   |  `3` | `14` |           `7` |          `16` | 
 | `03-Oct-25` | `M2 K11 M11`        |  `4` |  `2` |           `4` |           `2` |
 
 ## Match 2
@@ -79,7 +80,7 @@ applied to the next match.
 
 | McG | KID |
 |-----|-----|
-| 5   | 5   |
+| 6   | 5   |
 
 ### License
 
